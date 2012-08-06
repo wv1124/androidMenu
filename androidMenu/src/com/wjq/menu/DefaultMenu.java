@@ -7,7 +7,11 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 public class DefaultMenu extends Activity {
-	/** Called when the activity is first created. */
+    
+	/** 
+	 * Called when the activity is first created. 
+	 */
+    
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);

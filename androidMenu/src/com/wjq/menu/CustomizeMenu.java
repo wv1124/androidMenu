@@ -19,8 +19,12 @@ import android.widget.AdapterView.OnItemClickListener;
 
 public class CustomizeMenu extends Activity {
 	
-	private boolean isMore = false;// menu菜单翻页控制
-	AlertDialog menuDialog;// menu菜单Dialog
+    // menu菜单翻页控制
+	private boolean isMore = false;
+	
+	// menu菜单Dialog
+	AlertDialog menuDialog;
+	
 	GridView menuGrid;
 	View menuView;
 	

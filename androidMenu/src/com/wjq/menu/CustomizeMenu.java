@@ -28,10 +28,10 @@ public class CustomizeMenu extends Activity {
 	GridView menuGrid;
 	View menuView;
 	
-	// 搜索
-	private final int ITEM_SEARCH = 0;// 搜索
+	private final int ITEM_SEARCH = 0;
 	
-	private final int ITEM_FILE_MANAGER = 1;// 文件管理
+	// 文件管理
+	private final int ITEM_FILE_MANAGER = 1;
 	private final int ITEM_DOWN_MANAGER = 2;// 下载管理
 	private final int ITEM_FULLSCREEN = 3;// 全屏
 	private final int ITEM_MORE = 11;// 菜单

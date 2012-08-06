@@ -32,8 +32,12 @@ public class CustomizeMenu extends Activity {
 	
 	// 文件管理
 	private final int ITEM_FILE_MANAGER = 1;
-	private final int ITEM_DOWN_MANAGER = 2;// 下载管理
-	private final int ITEM_FULLSCREEN = 3;// 全屏
+	
+	// 下载管理
+	private final int ITEM_DOWN_MANAGER = 2;
+	
+	// 全屏
+	private final int ITEM_FULLSCREEN = 3;
 	private final int ITEM_MORE = 11;// 菜单
 
 	

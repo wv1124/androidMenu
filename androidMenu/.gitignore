@@ -1,0 +1,14 @@
+/*.o
+/*.d
+/obj
+/libs
+
+bin/
+gen/
+obj/
+*.class
+*.jar
+*.o
+*.so
+project.properties
+.project

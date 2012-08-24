@@ -6,6 +6,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+
+
+/**
+ * 1
+ * 
+ * @author wangwei0312
+ *
+ */
 public class DefaultMenu extends Activity {
     
 	/** 
